@@ -1,0 +1,28 @@
+
+    TalentScout Technical Screening Analysis Report
+    Generated on: 2025-05-14 15:16:00
+    
+    1. Candidate Overview
+    --------------------
+    Total Candidates: 1
+    
+    2. Technology Trends
+    -------------------
+    Most Common Technologies:
+    Empty DataFrame
+Columns: [technology, count]
+Index: []
+    
+    3. Response Quality Metrics
+    -------------------------
+    Average Answer Length: 1.40 words
+    Detailed Responses: 0.0%
+    Technical Term Usage: 40.0%
+    
+    4. Sentiment Analysis
+    --------------------
+    Average Sentiment Ratios:
+    - Positive: 0.00
+    - Neutral: 1.00
+    - Negative: 0.00
+    

@@ -1,0 +1,51 @@
+{
+  "personal_info": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "experience": "",
+    "position": "",
+    "location": "",
+    "tech_stack": []
+  },
+  "technical_assessment": {
+    "questions_and_answers": [
+      {
+        "question": "Great! Based on your profile as a mid-level candidate with experience in python, I'll ask you a few technical questions to better understand your expertise.\n\nQuestion 1: What are your favorite Python libraries for data science and why?",
+        "answer": "pandas"
+      },
+      {
+        "question": "Thank you for that detailed response.\n\nQuestion 2: How do you optimize the performance of your machine learning models?",
+        "answer": "data preprocesing"
+      },
+      {
+        "question": "Thank you for that detailed response.\n\nQuestion 3: Explain your process for feature selection and engineering.",
+        "answer": "data exploration"
+      },
+      {
+        "question": "Thank you for that detailed response.\n\nQuestion 4: How do you ensure model reproducibility in your projects?",
+        "answer": "quality"
+      },
+      {
+        "question": "Thank you for that detailed response.\n\nQuestion 5: Describe your experience with model deployment and monitoring.",
+        "answer": "yes"
+      }
+    ],
+    "sentiment_history": [
+      "neutral",
+      "neutral",
+      "neutral",
+      "neutral",
+      "neutral",
+      "neutral",
+      "neutral",
+      "neutral",
+      "neutral",
+      "neutral",
+      "neutral",
+      "neutral",
+      "neutral"
+    ]
+  },
+  "interview_timestamp": "2025-05-14T15:14:21.724763"
+}

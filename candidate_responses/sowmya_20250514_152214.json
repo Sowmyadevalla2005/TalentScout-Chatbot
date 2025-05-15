@@ -1,0 +1,39 @@
+{
+  "personal_info": {
+    "name": "sowmya",
+    "email": "john.smith@example.com",
+    "phone": "555-123-4567",
+    "experience": "555-123-4567",
+    "position": "john.smith@example.com",
+    "location": "555-123-4567",
+    "tech_stack": [
+      "5 years of experience in tech"
+    ]
+  },
+  "technical_assessment": {
+    "questions_and_answers": [
+      {
+        "question": "Great! Based on your profile as a senior candidate with experience in Python, Django, JavaScript, React, I'll ask you a few technical questions to better understand your expertise.\n\nPlease provide detailed responses with examples from your experience. This helps us better evaluate your technical knowledge.\n\nQuestion 1: Describe a complex problem you solved using Python. Include:\n- The challenge you faced\n- Your solution approach\n- Libraries and tools used\n- The final outcome\n\nTips for a good response:\n- Explain your thought process\n- Include specific examples\n- Mention relevant technologies\n- Describe challenges and solutions",
+        "answer": "I implemented a caching layer using Redis that reduced query response times by 80%"
+      },
+      {
+        "question": "Thank you for that detailed response!\n\nQuestion 2: How do you optimize your code for better performance? Share specific examples and techniques you've used.\n\nRemember to:\n- Provide specific examples\n- Explain your reasoning\n- Mention relevant tools/technologies\n- Share your learnings",
+        "answer": "React's virtual DOM improves performance by minimizing direct DOM manipulations"
+      },
+      {
+        "question": "Thank you for that detailed response!\n\nQuestion 3: What's your experience with testing and debugging in Python? What tools and methodologies do you use?\n\nRemember to:\n- Provide specific examples\n- Explain your reasoning\n- Mention relevant tools/technologies\n- Share your learnings",
+        "answer": "I prefer async/await over callbacks because it makes asynchronous code more readable"
+      },
+      {
+        "question": "Thank you for that detailed response!\n\nQuestion 4: Could you describe a significant project where you used Django? Include:\n- Project goals\n- Your role\n- Challenges faced\n- Solutions implemented\n\nRemember to:\n- Provide specific examples\n- Explain your reasoning\n- Mention relevant tools/technologies\n- Share your learnings",
+        "answer": "I use Django's built-in permission system and implement proper CSRF protection"
+      },
+      {
+        "question": "Thank you for that detailed response!\n\nQuestion 5: What are the best practices you follow when working with Django? Provide specific examples.\n\nRemember to:\n- Provide specific examples\n- Explain your reasoning\n- Mention relevant tools/technologies\n- Share your learnings",
+        "answer": "I use Django's built-in permission system and implement proper CSRF protection"
+      }
+    ],
+    "sentiment_history": []
+  },
+  "interview_timestamp": "2025-05-14T15:22:14.928514"
+}
